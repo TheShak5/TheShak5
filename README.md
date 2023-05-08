@@ -1,10 +1,13 @@
-### Hi there 👋
+- 👋 Hi, I’m Darshak Patel
+- 📫 Can be reached via: [LinkedIn](https://www.linkedin.com/in/darshakpatel5/) or [E-Mail](da26pate@uwaterloo.ca)
+
+![Darshak's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShak5)
 
 <!--
 **TheShak5/TheShak5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 👀 I’m interested in using machine and deep learning for the automated analysis of biological datasets.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
