@@ -1,7 +1,15 @@
 - 👋 Hi, I’m Darshak Patel
 - 📫 Can be reached via: [LinkedIn](https://www.linkedin.com/in/darshakpatel5/) or [E-Mail](da26pate@uwaterloo.ca)
 
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
 ![Darshak's GitHub stats](https://github-readme-stats-dun-sigma.vercel.app/api?username=TheShak5&theme=onedark&show_icons=true)
+
+---
 
 <!--
 **TheShak5/TheShak5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
