@@ -6,23 +6,22 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=theshak5&label=Profile%20views&color=0e75b6&style=flat" alt="theshak5" /> </p> -->
 
 ---
-## :zap: Stats
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+  <br>
+  
+   ![Darshak's GitHub stats](https://github-readme-stats-dun-sigma.vercel.app/api?username=TheShak5&theme=react&show_icons=true&card_width=390) [![GitHub Streak](https://streak-stats.demolab.com?user=TheShak5&theme=react&card_width=390)](https://git.io/streak-stats) 
+ 
+   <div align=center>
+      <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShak5&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+   </a>
+   </div>
+   
+   <br>
+   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TheShak5&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</details>
 
-![Darshak's GitHub stats](https://github-readme-stats-dun-sigma.vercel.app/api?username=TheShak5&theme=react&show_icons=true&card_width=390) [![GitHub Streak](https://streak-stats.demolab.com?user=TheShak5&theme=react&card_width=390)](https://git.io/streak-stats) 
-
-<!-- <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShak5&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&width=500" /> -->
-
-<div align=center>
-   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShak5&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
- </a>
-</div>
-
-<br>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=TheShak5&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShak5&layout=compact&theme=buefy&hide_border=true" /> -->
----
-
+--- 
 - 📫 Can be reached via: [LinkedIn](https://www.linkedin.com/in/darshakpatel5/) or [E-Mail](da26pate@uwaterloo.ca)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheShak5)
