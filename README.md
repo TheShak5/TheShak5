@@ -8,7 +8,7 @@
 ### :zap: Stats
 ---
 
-![Darshak's GitHub stats](https://github-readme-stats-dun-sigma.vercel.app/api?username=TheShak5&theme=react-darkk&show_icons=true&card_width=390) [![GitHub Streak](https://streak-stats.demolab.com?user=TheShak5&theme=react-darkk&card_width=390)](https://git.io/streak-stats)
+![Darshak's GitHub stats](https://github-readme-stats-dun-sigma.vercel.app/api?username=TheShak5&theme=react-dark&show_icons=true&card_width=390) [![GitHub Streak](https://streak-stats.demolab.com?user=TheShak5&theme=onedark&card_width=390)](https://git.io/streak-stats)
 
 <br />
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TheShak5&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
