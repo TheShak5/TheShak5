@@ -8,19 +8,22 @@
 ### :zap: Stats
 ---
 
-![Darshak's GitHub stats](https://github-readme-stats-dun-sigma.vercel.app/api?username=TheShak5&theme=onedark&show_icons=true&card_width=390) [![GitHub Streak](https://streak-stats.demolab.com?user=TheShak5&theme=onedark&card_width=390)](https://git.io/streak-stats)
+![Darshak's GitHub stats](https://github-readme-stats-dun-sigma.vercel.app/api?username=TheShak5&theme=react&show_icons=true&card_width=50%) [![GitHub Streak](https://streak-stats.demolab.com?user=TheShak5&theme=react&card_width=50%)](https://git.io/streak-stats)
+
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 
 <br />
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=TheShak5&theme=onedark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=TheShak5&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShak5&layout=compact&theme=buefy&hide_border=true" /> -->
 ---
-![Stats Overview](https://raw.githubusercontent.com/TheShak5/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/TheShak5/github-stats-transparent/output/generated/languages.svg)
 
 - 📫 Can be reached via: [LinkedIn](https://www.linkedin.com/in/darshakpatel5/) or [E-Mail](da26pate@uwaterloo.ca)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheShak5)
+
+
+
 <!--
 **TheShak5/TheShak5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
