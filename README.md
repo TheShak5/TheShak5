@@ -7,7 +7,7 @@
 
 ---
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b style="font-size:40em">⚡ Github Stats</b></summary>
   <br>
   
    ![Darshak's GitHub stats](https://github-readme-stats-dun-sigma.vercel.app/api?username=TheShak5&theme=react&show_icons=true&card_width=390) [![GitHub Streak](https://streak-stats.demolab.com?user=TheShak5&theme=react&card_width=390)](https://git.io/streak-stats) 
