@@ -8,12 +8,18 @@
 
 ## :zap: Stats
 ---
-
+<br>
 ![Darshak's GitHub stats](https://github-readme-stats-dun-sigma.vercel.app/api?username=TheShak5&theme=react&show_icons=true&card_width=390) [![GitHub Streak](https://streak-stats.demolab.com?user=TheShak5&theme=react&card_width=390)](https://git.io/streak-stats)
 
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShak5&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&width=500" />
 
-<br />
+<br>
+<div align=center>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img width=100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShak5&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+ </a>
+</div>
+<br>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TheShak5&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShak5&layout=compact&theme=buefy&hide_border=true" /> -->
