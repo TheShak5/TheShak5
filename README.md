@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Darshak Patel
 - 📫 Can be reached via: [LinkedIn](https://www.linkedin.com/in/darshakpatel5/) or [E-Mail](da26pate@uwaterloo.ca)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theshak5&label=Profile%20views&color=0e75b6&style=flat" alt="theshak5" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=theshak5&label=Profile%20views&color=0e75b6&style=flat" alt="theshak5" /> </p> -->
 ---
 
 ### :zap: Recent Activity
