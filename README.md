@@ -14,7 +14,7 @@
 
 ---
 
-![Darshak's GitHub stats](https://github-readme-stats-dun-sigma.vercel.app/api?username=TheShak5&theme=onedark&show_icons=true)
+![Darshak's GitHub stats](https://github-readme-stats-dun-sigma.vercel.app/api?username=TheShak5&theme=onedark&show_icons=true) [![GitHub Streak](https://streak-stats.demolab.com?user=TheShak5&theme=onedark)](https://git.io/streak-stats)
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShak5&layout=compact&theme=buefy&hide_border=true" /> -->
 ---
