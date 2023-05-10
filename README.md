@@ -7,6 +7,7 @@
 <!-- <img src="https://github-trophies.vercel.app/?username=TheShak5&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"> -->
 
 ## 👨‍💻 Programming Languages & Applications
+<!-- https://github.com/progfay/shields-with-icon/blob/master/README.md?plain=1 -->
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
