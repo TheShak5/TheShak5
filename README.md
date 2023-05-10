@@ -15,6 +15,9 @@
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShak5&layout=compact&theme=buefy&hide_border=true" /> -->
 ---
+![Stats Overview](https://raw.githubusercontent.com/TheShak5/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/TheShak5/github-stats-transparent/output/generated/languages.svg)
+
 - 📫 Can be reached via: [LinkedIn](https://www.linkedin.com/in/darshakpatel5/) or [E-Mail](da26pate@uwaterloo.ca)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheShak5)
