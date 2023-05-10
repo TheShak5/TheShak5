@@ -13,7 +13,7 @@
 
 ![Darshak's GitHub stats](https://github-readme-stats-dun-sigma.vercel.app/api?username=TheShak5&theme=onedark&show_icons=true)
 
-<a href="https://github.com/TheShak5/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShak5&layout=compact&theme=buefy&hide_border=true" /></a> |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShak5&layout=compact&theme=buefy&hide_border=true" />
 ---
 
 <!--
