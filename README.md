@@ -1,5 +1,6 @@
 <div align="center">
-   <h1>Hi, I'm Darshak <img src="https://media1.giphy.com/media/ojm4CwjOfI7JFaUuEM/giphy.gif?cid=ecf05e47bahsjmhym9utqeygebkd2ks3vf5ok1d2pvl3yvh1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25px"> </h1>
+   <h1>Hi, I'm Darshak</h1>
+   <img src="https://media1.giphy.com/media/ojm4CwjOfI7JFaUuEM/giphy.gif?cid=ecf05e47bahsjmhym9utqeygebkd2ks3vf5ok1d2pvl3yvh1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px"> 
    
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
