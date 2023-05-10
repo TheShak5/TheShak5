@@ -7,7 +7,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
+<!--END_SECTION:activity-->
 ---
 
 ![Darshak's GitHub stats](https://github-readme-stats-dun-sigma.vercel.app/api?username=TheShak5&theme=onedark&show_icons=true)
