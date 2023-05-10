@@ -1,3 +1,10 @@
+<div align="center">
+   <h1>Hi there, I'm Darshak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
+   
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
+
 - 👋 Hi, I’m Darshak Patel <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 - 📫 Can be reached via: [LinkedIn](https://www.linkedin.com/in/darshakpatel5/) or [E-Mail](da26pate@uwaterloo.ca)
 
