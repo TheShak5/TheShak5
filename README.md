@@ -1,6 +1,7 @@
 <div align="center">
    <h1>Hi, I'm Darshak <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=15"> </h1>
    <img src="https://media1.giphy.com/media/ojm4CwjOfI7JFaUuEM/giphy.gif?cid=ecf05e47bahsjmhym9utqeygebkd2ks3vf5ok1d2pvl3yvh1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="400px">    
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=TheShak5)](https://git.io/streak-stats)
 </div>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=theshak5&label=Profile%20views&color=0e75b6&style=flat" alt="theshak5" /> </p> -->
