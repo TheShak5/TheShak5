@@ -6,7 +6,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=theshak5&label=Profile%20views&color=0e75b6&style=flat" alt="theshak5" /> </p> -->
 <!-- <img src="https://github-trophies.vercel.app/?username=TheShak5&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"> -->
 
-## 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages & Applications
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
