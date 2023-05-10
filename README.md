@@ -18,6 +18,8 @@
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShak5&layout=compact&theme=buefy&hide_border=true" /> -->
 ---
 - 📫 Can be reached via: [LinkedIn](https://www.linkedin.com/in/darshakpatel5/) or [E-Mail](da26pate@uwaterloo.ca)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
 <!--
 **TheShak5/TheShak5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
