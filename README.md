@@ -33,19 +33,6 @@
 ![Google Colab](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Colab&color=222222&logo=Google+Colab&logoColor=F9AB00&label=)
 
 ---
-## &#x1f4c8; GitHub Activity
-
-# :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/CartimDraluc/Cartimpedia/pull/90) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-2. 💪 Opened PR [#90](https://github.com/CartimDraluc/Cartimpedia/pull/90) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-3. 🗣 Commented on [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-4. ❗️ Closed issue [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-5. ❗️ Opened issue [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-<!--END_SECTION:activity-->
-
----
 ## :zap: GitHub Stats
 
 ![Darshak's GitHub stats](https://github-readme-stats-dun-sigma.vercel.app/api?username=TheShak5&theme=react&show_icons=true&card_width=390) [![GitHub Streak](https://streak-stats.demolab.com?user=TheShak5&theme=react&card_width=390)](https://git.io/streak-stats) 
