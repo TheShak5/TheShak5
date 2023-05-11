@@ -9,10 +9,9 @@
 ## 👨‍💻 Programming Languages & Applications
 <!-- https://github.com/progfay/shields-with-icon/blob/master/README.md?plain=1 -->
 
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+<a href="https://github.com/TheShak5?tab=repositories&q=&type=&language=python&sort=">![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)</a>
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+<a href="https://github.com/TheShak5?tab=repositories&q=&type=&language=css&sort=">![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)</a>
 ![LaTeX](https://img.shields.io/static/v1?style=for-the-badge&message=LaTeX&color=008080&logo=LaTeX&logoColor=FFFFFF&label=)
 ![R](https://img.shields.io/static/v1?style=for-the-badge&message=R&color=276DC3&logo=R&logoColor=FFFFFF&label=)
 ![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
@@ -23,6 +22,7 @@
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 
 ![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![Anaconda](https://img.shields.io/static/v1?style=for-the-badge&message=Anaconda&color=44A833&logo=Anaconda&logoColor=FFFFFF&label=)
 ![Adobe Acrobat Reader](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Acrobat+Reader&color=EC1C24&logo=Adobe+Acrobat+Reader&logoColor=FFFFFF&label=)
 ![Adobe Illustrator](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Illustrator&color=222222&logo=Adobe+Illustrator&logoColor=FF9A00&label=)
