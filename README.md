@@ -1,6 +1,6 @@
 <div align="center">
-   <h1>Hi, I'm Darshak <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=15"> </h1>
-   <img src="https://media1.giphy.com/media/ojm4CwjOfI7JFaUuEM/giphy.gif?cid=ecf05e47bahsjmhym9utqeygebkd2ks3vf5ok1d2pvl3yvh1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="360px">    
+   <h1>Hi, I'm Darshak [he/him] </h1>
+   <img src="https://media1.giphy.com/media/ojm4CwjOfI7JFaUuEM/giphy.gif?cid=ecf05e47bahsjmhym9utqeygebkd2ks3vf5ok1d2pvl3yvh1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="260px">    
 </div>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=theshak5&label=Profile%20views&color=0e75b6&style=flat" alt="theshak5" /> </p> -->
@@ -32,7 +32,6 @@
 ![Microsoft Word](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Word&color=2B579A&logo=Microsoft+Word&logoColor=FFFFFF&label=)
 ![Google Colab](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Colab&color=222222&logo=Google+Colab&logoColor=F9AB00&label=)
 
---
 
 <!--
 **TheShak5/TheShak5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -80,4 +79,4 @@ Here are some ideas to get you started:
    <br>
    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TheShak5&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </details> -->
--->
+
