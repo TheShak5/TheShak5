@@ -1,14 +1,15 @@
 <div align="center">
    <h1>Hi, I'm Darshak [he/him] </h1>
-   <img src="https://media1.giphy.com/media/ojm4CwjOfI7JFaUuEM/giphy.gif?cid=ecf05e47bahsjmhym9utqeygebkd2ks3vf5ok1d2pvl3yvh1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="260px">    
+   <!-- <img src="https://media1.giphy.com/media/ojm4CwjOfI7JFaUuEM/giphy.gif?cid=ecf05e47bahsjmhym9utqeygebkd2ks3vf5ok1d2pvl3yvh1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="260px">    --!>
 </div>
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=theshak5&label=Profile%20views&color=0e75b6&style=flat" alt="theshak5" /> </p> -->
 <!-- <img src="https://github-trophies.vercel.app/?username=TheShak5&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"> -->
 
 <!--
 ## 👨‍💻 Programming Languages & Applications
-<!-- https://github.com/progfay/shields-with-icon/blob/master/README.md?plain=1 -->
+https://github.com/progfay/shields-with-icon/blob/master/README.md?plain=1
 
 <a href="https://github.com/TheShak5?tab=repositories&q=&type=&language=python&sort=">![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)</a>
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
@@ -31,8 +32,7 @@
 ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
 ![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
 ![Microsoft Word](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Word&color=2B579A&logo=Microsoft+Word&logoColor=FFFFFF&label=)
-![Google Colab](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Colab&color=222222&logo=Google+Colab&logoColor=F9AB00&label=)
- -->
+![Google Colab](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Colab&color=222222&logo=Google+Colab&logoColor=F9AB00&label=) -->
 
 <!--
 **TheShak5/TheShak5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
