@@ -6,6 +6,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=theshak5&label=Profile%20views&color=0e75b6&style=flat" alt="theshak5" /> </p> -->
 <!-- <img src="https://github-trophies.vercel.app/?username=TheShak5&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"> -->
 
+<!--
 ## 👨‍💻 Programming Languages & Applications
 <!-- https://github.com/progfay/shields-with-icon/blob/master/README.md?plain=1 -->
 
@@ -31,7 +32,7 @@
 ![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
 ![Microsoft Word](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Word&color=2B579A&logo=Microsoft+Word&logoColor=FFFFFF&label=)
 ![Google Colab](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Colab&color=222222&logo=Google+Colab&logoColor=F9AB00&label=)
-
+ -->
 
 <!--
 **TheShak5/TheShak5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
